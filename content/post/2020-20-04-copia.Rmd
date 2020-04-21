@@ -25,3 +25,8 @@ Esta ecuación es *muy* **importante**:
 
 $$(a+b)^2$$
 
+
+Hay una nueva ecuación:
+
+$$(a+b)*(a+b)$$
+
