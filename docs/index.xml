@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuriko Sosa</title>
+    <link>/blog/</link>
+    <description>Recent content on Yuriko Sosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hola, mundo</title>
+      <link>/blog/2020/04/20/hola-mundo/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/04/20/hola-mundo/</guid>
+      <description>
+
+
+&lt;p&gt;Este es un post de prueba. Debería editarlo con contenido real y cambiar los tags, categoría, etc. Segunda prueba.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;2+5&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;[1] 7&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;titulo&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Titulo&lt;/h1&gt;
+&lt;div id=&#34;sub-titulo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;sub titulo&lt;/h2&gt;
+&lt;p&gt;Esta ecuación es &lt;em&gt;muy&lt;/em&gt; &lt;strong&gt;importante&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[(a+b)^2\]&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
